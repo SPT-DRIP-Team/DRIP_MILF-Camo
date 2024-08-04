@@ -1,0 +1,20 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "LBT-6094A Slick Plate Carrier (KKO \"MILF\")",
+	"type": "RETEXTURE",
+    "shortName": "Slick",
+    "description": "A simple yet effective plate carrier by London Bridge Trading company. The most minimalistic design intended for use with chest rigs. Comes in many colours. Russian KKO \"MILF\" version.",
+
+    "baseItemID": "5e4abb5086f77406975c9342",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+		"cubemaps",
+		"assets/commonassets/physics/physicsmaterials.bundle",
+		"assets/content/items/equipment/armor_slick/ar_slick.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

@@ -1,0 +1,25 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "BNTI Module-3M body armor (KKO \"MILF\")",
+	"type": "RETEXTURE",
+    "shortName": "Module-3M",
+    "description": "A lightweight bulletproof vest of class 2 of GOST-R protection, used by private security companies and collection services. Russian KKO \"MILF\" version.",
+
+    "baseItemID": "59e7635f86f7742cbf2c1095",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "childAssorts": {
+		"Soft_armor_front": "65702f87722744627e05cdb8",
+        "Soft_armor_back": "65702fe593b7ea9c330f4ce8",
+        "Soft_armor_left": "6570305d93b7ea9c330f4ced",
+        "soft_armor_right": "65703472c9030b928a0a8a78"
+    },
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

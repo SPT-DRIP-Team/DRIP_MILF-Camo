@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Tactical sling bag (KKO \"MILF\")",
+	"type": "RETEXTURE",
+    "shortName": "Sling",
+    "description": "An original sling bag for everyday wear or for active rest. Russian KKO \"MILF\" version.",
+
+    "baseItemID": "5ab8f04f86f774585f4237d8",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

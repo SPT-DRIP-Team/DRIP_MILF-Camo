@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Azimut SS 'Zhuk' chest harness (KKO \"MILF\")",
+	"type": "RETEXTURE",
+    "shortName": "Zhuk",
+    "description": "A simple nylon bearing system with non-removable pouches. Allows you to carry a fairly impressive amount of ammunition at the expense of convenience. Russian KKO \"MILF\" version.",
+
+    "baseItemID": "603648ff5a45383c122086ac",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

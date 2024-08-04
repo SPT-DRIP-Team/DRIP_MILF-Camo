@@ -1,0 +1,28 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "NPP KlASS Bagariy plate carrier (KKO \"MILF\")",
+	"type": "RETEXTURE",
+    "shortName": "Bagariy",
+    "description": "In the second millennium, the equipment of a soldier received serious changes in view of new threats and tasks. A better level of protection was required, so the Russian army needed a reliable and functional body armor. In the mid-2000s, the MVD, which was later reorganized into the Russian Guard, received Bagariy bulletproof vests. Bagariy was used both by ordinary soldiers of the internal troops, and in special forces. Actively was used by PMC BEAR as the main heavy body armor. Russian KKO \"MILF\" and EMR \"Mountain\" version.",
+
+    "baseItemID": "628d0618d1ba6e4fa07ce5a4",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+		"assets/content/characters/character/tacticalvest/cr_commando_mesh"
+    ],
+    "childAssorts": {
+        "Front_plate": "656f664200d62bcd2e024077",
+        "Back_plate": "657b2797c3dbcb01d60c35ea",
+		"Soft_armor_front": "657322988c1cc6dcd9098b2d",
+        "Soft_armor_back": "657322a4cea9255e21023651",
+        "Soft_armor_left": "657322acd9d89ff7ac0d961b",
+        "soft_armor_right": "657322b7d9d89ff7ac0d961f"
+    },
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

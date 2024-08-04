@@ -1,0 +1,20 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Gear Craft GC-BSS-MK1 chest rig (KKO \"MILF\")",
+	"type": "RETEXTURE",
+    "shortName": "BSS-MK1",
+    "description": "The new generation shoulder belt system, made for patrol and assault operations. Russian KKO \"MILF\" version.",
+
+    "baseItemID": "5fd4c60f875c30179f5d04c2",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/characters/character/tacticalvest/cr_commando_mesh",
+            "cubemaps",
+            "shaders"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

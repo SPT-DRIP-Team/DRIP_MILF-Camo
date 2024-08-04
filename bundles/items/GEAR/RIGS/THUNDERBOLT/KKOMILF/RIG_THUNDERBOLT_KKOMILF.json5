@@ -1,0 +1,25 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Direct Action Thunderbolt compact chest rig (KKO \"MILF\")",
+	"type": "RETEXTURE",
+    "shortName": "Thunderbolt",
+    "description": "The Thunderbolt fixed chest rig, containing all the basic utility pouches you'd need. Manufactured by Direct Action. Russian KKO \"MILF\" version.",
+
+    "baseItemID": "5f5f41f56760b4138443b352",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": false,
+    "addToBots": true,
+    "weightingMult": 1.0,
+	
+	"loyaltyLevel": 2,
+    "price": {
+        "currency": "RUB",
+        "amount": 28590,
+    },
+}

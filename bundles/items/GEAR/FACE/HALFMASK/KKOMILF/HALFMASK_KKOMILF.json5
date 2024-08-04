@@ -1,0 +1,27 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Lower half-mask (KKO \"MILF\")",
+	"type": "RETEXTURE",
+    "shortName": "Half-mask",
+    "description": "A piece of cloth, typically a bandana, covering the face from nose and below, is the most typical attribute of a street gang member. Russian KKO \"MILF\" version.",
+
+    "baseItemID": "572b7fa524597762b747ce82",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+		"shaders",
+		"cubemaps",
+		"items/GEAR/FACE/HALFMASK/KKOMILF/TEXTURE.bundle"
+    ],
+    "textureGearDependencies": [],
+    "copyAssort": false,
+    "addToBots": true,
+    "weightingMult": 1.0,
+
+    "loyaltyLevel": 1,
+    "price": {
+        "currency": "RUB",
+        "amount": 1620,
+    },
+}

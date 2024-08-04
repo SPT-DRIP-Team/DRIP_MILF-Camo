@@ -1,0 +1,23 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "6B2 body armor (KKO \"MILF\")",
+	"type": "RETEXTURE",
+    "shortName": "6B2",
+    "description": "An old army body armor from Afghanistan war times, mainly designed to protect against pistol bullets and explosion fragments. It fulfilled its mission, but was soon replaced by bulletproof vests with differentiated protection. Russian KKO \"MILF\" version.",
+
+    "baseItemID": "5df8a2ca86f7740bfe6df777",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "childAssorts": {
+		"Soft_armor_front": "656fd7c32668ef0402028fb9",
+        "Soft_armor_back": "656fd89bf5a9631d4e042575"
+    },
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}
